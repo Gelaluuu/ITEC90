@@ -28,8 +28,7 @@ text-align:center;
 
 <h1><br><br>HELLO WORLD!</h1>
 <?php
-echo "<h2>Activity 1 in ITEC90- System Integration and Architecture</h2>";
-echo "<h3>Group Members:<br>Atienza, John Philip<br> Bacena, Anthony<br> Catindig, Jaimie<br> Loisaga, Angel<br> Taculod, Reden<br><br>BSIT 4-3</h3>";
+echo "<h2>Activity 1 in ITEC90- System Integration and Architecture<br>Group Members:<br>Atienza, John Philip<br> Bacena, Anthony<br> Catindig, Jaimie<br> Loisaga, Angel<br> Taculod, Reden<br><br>BSIT 4-3</h2>";
 ?> 
 </head>
 </body>
